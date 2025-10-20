@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.loosip.app-mergeDebugResources-48:/values-hr/values-hr.xml",
+            "outputFile": "com.loosip.app-mergeDebugResources-50:/values-hr/values-hr.xml",
             "map": [
                 {
                     "source": "/Users/mac/.gradle/caches/8.8/transforms/b74f94c3ce3f63c910896fb327c0657d/transformed/core-1.16.0/res/values-hr/values-hr.xml",

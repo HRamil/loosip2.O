@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.loosip.app-mergeDebugResources-48:/values-si/values-si.xml",
+            "outputFile": "com.loosip.app-mergeDebugResources-50:/values-si/values-si.xml",
             "map": [
                 {
                     "source": "/Users/mac/.gradle/caches/8.8/transforms/79f21264b8c421f53c975dd02a2f5be5/transformed/media3-ui-1.4.1/res/values-si/values-si.xml",

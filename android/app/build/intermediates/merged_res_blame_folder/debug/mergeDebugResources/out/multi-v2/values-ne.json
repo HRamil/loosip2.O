@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.loosip.app-mergeDebugResources-48:/values-ne/values-ne.xml",
+            "outputFile": "com.loosip.app-mergeDebugResources-50:/values-ne/values-ne.xml",
             "map": [
                 {
                     "source": "/Users/mac/.gradle/caches/8.8/transforms/1f00369f60fb558f4c67464032b9f89f/transformed/react-android-0.75.4-debug/res/values-ne/values-ne.xml",

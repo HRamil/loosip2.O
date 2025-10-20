@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.loosip.app-mergeDebugResources-48:/values-nl/values-nl.xml",
+            "outputFile": "com.loosip.app-mergeDebugResources-50:/values-nl/values-nl.xml",
             "map": [
                 {
                     "source": "/Users/mac/.gradle/caches/8.8/transforms/b74f94c3ce3f63c910896fb327c0657d/transformed/core-1.16.0/res/values-nl/values-nl.xml",
@@ -54,6 +54,23 @@
                         "startOffsets": "9007,9078,9142,9206,9273,9350,9419,9508,9591",
                         "endColumns": "70,63,63,66,76,68,88,82,71",
                         "endOffsets": "9073,9137,9201,9268,9345,9414,9503,9586,9658"
+                    }
+                },
+                {
+                    "source": "/Users/mac/.gradle/caches/8.8/transforms/c74864f15dd3b81f357f28ca36a943d4/transformed/ucrop-2.2.11/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,105,170,229,284,333",
+                        "endColumns": "49,64,58,54,48,47",
+                        "endOffsets": "100,165,224,279,328,376"
+                    },
+                    "to": {
+                        "startLines": "230,231,232,233,234,235",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "18163,18213,18278,18337,18392,18441",
+                        "endColumns": "49,64,58,54,48,47",
+                        "endOffsets": "18208,18273,18332,18387,18436,18484"
                     }
                 },
                 {

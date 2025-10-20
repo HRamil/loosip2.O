@@ -231,4 +231,10 @@
     <string gender="unknown" name="tablist_description">فهرست برگه</string>
     <string gender="unknown" name="timer_description">زمان‌سنج</string>
     <string gender="unknown" name="toolbar_description">نوار ابزار</string>
+    <string name="ucrop_crop">برش</string>
+    <string name="ucrop_label_edit_photo">ویرایش عکس</string>
+    <string name="ucrop_label_original">اصلی</string>
+    <string name="ucrop_menu_crop">برش</string>
+    <string name="ucrop_rotate">چرخش</string>
+    <string name="ucrop_scale">اندازه</string>
 </resources>

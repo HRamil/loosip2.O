@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.loosip.app-mergeDebugResources-48:/values-zh-rTW/values-zh-rTW.xml",
+            "outputFile": "com.loosip.app-mergeDebugResources-50:/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
                     "source": "/Users/mac/.gradle/caches/8.8/transforms/79f21264b8c421f53c975dd02a2f5be5/transformed/media3-ui-1.4.1/res/values-zh-rTW/values-zh-rTW.xml",
@@ -107,6 +107,23 @@
                         "startOffsets": "7875,7931,7987,8044,8097,8167,8221,8297,8375",
                         "endColumns": "55,55,56,52,69,53,75,77,58",
                         "endOffsets": "7926,7982,8039,8092,8162,8216,8292,8370,8429"
+                    }
+                },
+                {
+                    "source": "/Users/mac/.gradle/caches/8.8/transforms/c74864f15dd3b81f357f28ca36a943d4/transformed/ucrop-2.2.11/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,97,174,228,282,329,446,490",
+                        "endColumns": "41,76,53,53,46,116,43,42",
+                        "endOffsets": "92,169,223,277,324,441,485,528"
+                    },
+                    "to": {
+                        "startLines": "233,234,235,236,237,238,239,240",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "16170,16212,16289,16343,16397,16444,16561,16605",
+                        "endColumns": "41,76,53,53,46,116,43,42",
+                        "endOffsets": "16207,16284,16338,16392,16439,16556,16600,16643"
                     }
                 },
                 {

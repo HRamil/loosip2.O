@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.loosip.app-mergeDebugResources-48:/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "com.loosip.app-mergeDebugResources-50:/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
                     "source": "/Users/mac/.gradle/caches/8.8/transforms/b74f94c3ce3f63c910896fb327c0657d/transformed/core-1.16.0/res/values-en-rXC/values-en-rXC.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.loosip.app-mergeDebugResources-48:/values-ko/values-ko.xml",
+            "outputFile": "com.loosip.app-mergeDebugResources-50:/values-ko/values-ko.xml",
             "map": [
                 {
                     "source": "/Users/mac/.gradle/caches/8.8/transforms/b74f94c3ce3f63c910896fb327c0657d/transformed/core-1.16.0/res/values-ko/values-ko.xml",
@@ -107,6 +107,23 @@
                         "startOffsets": "856,953,1047,1148,1230,1328,1434,1514,1589,1680,1773,1868,1962,2062,2155,2250,2344,2435,2526,2606,2704,2798,2893,2993,3090,3190,3342,15274",
                         "endColumns": "96,93,100,81,97,105,79,74,90,92,94,93,99,92,94,93,90,90,79,97,93,94,99,96,99,151,93,78",
                         "endOffsets": "948,1042,1143,1225,1323,1429,1509,1584,1675,1768,1863,1957,2057,2150,2245,2339,2430,2521,2601,2699,2793,2888,2988,3085,3185,3337,3431,15348"
+                    }
+                },
+                {
+                    "source": "/Users/mac/.gradle/caches/8.8/transforms/c74864f15dd3b81f357f28ca36a943d4/transformed/ucrop-2.2.11/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,112,164",
+                        "endColumns": "56,51,46",
+                        "endOffsets": "107,159,206"
+                    },
+                    "to": {
+                        "startLines": "233,234,235",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "16546,16603,16655",
+                        "endColumns": "56,51,46",
+                        "endOffsets": "16598,16650,16697"
                     }
                 },
                 {

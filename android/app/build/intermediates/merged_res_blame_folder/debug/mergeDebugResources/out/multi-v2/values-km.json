@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.loosip.app-mergeDebugResources-48:/values-km/values-km.xml",
+            "outputFile": "com.loosip.app-mergeDebugResources-50:/values-km/values-km.xml",
             "map": [
                 {
                     "source": "/Users/mac/.gradle/caches/8.8/transforms/7a4f328eaec8af5c62e2d02703520f47/transformed/media3-exoplayer-1.4.1/res/values-km/values-km.xml",
