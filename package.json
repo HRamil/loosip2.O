@@ -46,7 +46,7 @@
     "react-native-svg-transformer": "^1.5.1",
     "react-test-renderer": "18.3.1",
     "typescript": "5.0.4",
-    "expo-cli": "^7.7.1"
+    "expo-cli": "^6.5.1"
   },
   "engines": {
     "node": ">=18"
