@@ -9,7 +9,6 @@
     "start": "react-native start",
     "test": "jest",
  "build": "npx expo export -p web"
-}
 
   },
   "dependencies": {
