@@ -5,20 +5,17 @@
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
-    "start": "react-native start",
-    "web": "expo start --web",
-    "build:web": "expo export --public-url ./dist -p web",
     "lint": "eslint .",
+    "start": "react-native start",
     "test": "jest"
   },
   "dependencies": {
-    "expo": "^48.0.0",
-    "react": "18.3.1",
-    "react-native": "0.75.4",
     "@gorhom/bottom-sheet": "^5.2.6",
     "@react-navigation/bottom-tabs": "^7.4.8",
     "@react-navigation/native": "^7.1.18",
     "@react-navigation/native-stack": "^7.3.27",
+    "react": "18.3.1",
+    "react-native": "0.75.4",
     "react-native-image-crop-picker": "^0.51.0",
     "react-native-keyboard-aware-scroll-view": "^0.9.5",
     "react-native-linear-gradient": "^2.8.3",
